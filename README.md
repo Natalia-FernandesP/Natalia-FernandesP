@@ -1,6 +1,6 @@
 ## Hi there :blush:
 
-Sou a Natalia , e atualmente estou aprendendo e criando prejetos com 
+Sou a Natalia , atualmente sou estudante e aprendendo a criar prejetos com 
 <br>
 - <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 - <img  src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css&logoColor=white" alt="css-logo"/>
